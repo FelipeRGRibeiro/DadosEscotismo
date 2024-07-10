@@ -10,7 +10,7 @@ Repositório para compartilhamento de dados anônimos relevantes ao movimento es
 O objetivo deste repositório é agregar dados relevantes aos grupos escoteiros e aos chefes de tropa nos mais relevantes temas relacionados ao escotismo
 
 ## Pesquisas
-- Interesse dos jovens
+- Interesse dos jovens - Realizada entre os dias 28/6 e 9/7/2024
 
 ## Autor e contato
 Felipe Regis G. Ribeiro
